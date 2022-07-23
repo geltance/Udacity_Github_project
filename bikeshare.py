@@ -91,7 +91,7 @@ def main():
 
         show_data_5_rows()        
         
-        
+        #below is a calculation of all required metrics
         
         print('\nCalculating The Most Frequent Times of Travel...\n')
         start_time = time.time()
