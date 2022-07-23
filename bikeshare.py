@@ -77,7 +77,7 @@ def main():
         else:
             df = df[(df.dfMonth == month) & (df.day_of_week == day)]
 
-        #    return df
+        
         print('What does the raw data look like?')
         view_data = 'yes'
         def show_data_5_rows():
