@@ -7,7 +7,9 @@
 Udacit_Github_project
 
 ### Description
-Describe what your project is about and what it does
+This project is about learning how to publish on git and version control
+secondary project is about use of python aka bikeshare.py
+
 
 ### Files used
 Include the files used
