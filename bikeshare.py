@@ -1,4 +1,4 @@
-
+#this project has already been checked so no need to change Pythong code
 
 import time
 import pandas as pd
@@ -77,7 +77,7 @@ def main():
         else:
             df = df[(df.dfMonth == month) & (df.day_of_week == day)]
 
-        #    return df
+        
         print('What does the raw data look like?')
         view_data = 'yes'
         def show_data_5_rows():
@@ -91,7 +91,7 @@ def main():
 
         show_data_5_rows()        
         
-        
+        #below is a calculation of all required metrics
         
         print('\nCalculating The Most Frequent Times of Travel...\n')
         start_time = time.time()
